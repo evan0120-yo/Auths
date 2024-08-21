@@ -1,0 +1,17 @@
+{"properties": [
+	{
+	  "name": "env.profile.ip",
+	  "type": "java.lang.String",
+	  "description": "server.ip"
+	},
+	{
+	  "name": "env.zodiacsign.ip",
+	  "type": "java.lang.String",
+	  "description": "server.ip"
+	},
+	{
+	  "name": "env.gateway.ip",
+	  "type": "java.lang.String",
+	  "description": "server.ip"
+	}
+]}
